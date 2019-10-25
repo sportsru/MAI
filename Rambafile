@@ -1,0 +1,23 @@
+### Headers settings
+company: Tribuna Digital
+
+### Xcode project settings
+project_name: MAI
+xcodeproj_path: MAI.xcodeproj
+
+### Code generation settings section
+# The main project target name
+project_targets: [MAI]
+
+# The file path for new modules
+project_file_path: MAI/Sources/UserStories
+
+# The Xcode group path to new modules
+project_group_path: MAI/Sources/UserStories
+
+### Dependencies settings section
+podfile_path: Podfile
+
+### Templates
+templates:
+- {name: 'viper', git: 'https://git.tribuna.com/tribuna-mobile-ios/VIPER.git'}

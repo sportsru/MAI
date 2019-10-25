@@ -1,0 +1,56 @@
+PODS:
+  - Dip (7.0.1)
+  - Kingfisher (5.8.3):
+    - Kingfisher/Core (= 5.8.3)
+  - Kingfisher/Core (5.8.3)
+  - PinLayout (1.8.12)
+  - R.swift (5.1.0):
+    - R.swift.Library (~> 5.1.0)
+  - R.swift.Library (5.1.0)
+  - RxCocoa (5.0.0):
+    - RxRelay (~> 5)
+    - RxSwift (~> 5)
+  - RxRelay (5.0.0):
+    - RxSwift (~> 5)
+  - RxSwift (5.0.0)
+  - SwiftLint (0.35.0)
+  - TribunaGraph (1.1.3)
+
+DEPENDENCIES:
+  - Dip
+  - Kingfisher
+  - PinLayout
+  - R.swift
+  - RxCocoa
+  - RxSwift
+  - SwiftLint
+  - TribunaGraph
+
+SPEC REPOS:
+  trunk:
+    - Dip
+    - Kingfisher
+    - PinLayout
+    - R.swift
+    - R.swift.Library
+    - RxCocoa
+    - RxRelay
+    - RxSwift
+    - SwiftLint
+    - TribunaGraph
+
+SPEC CHECKSUMS:
+  Dip: 79509d5dc4f648e10e922ed79c608a7761c52b13
+  Kingfisher: b7e4cb65ff24c264bd2a1284b75b974d907afd94
+  PinLayout: 7710deec29658edf16811b27a89a90a0eddd0d9e
+  R.swift: 8cbc4fc69b740305b6a17c8a8ed968eb788962d9
+  R.swift.Library: fa85ce1e0d0b7e818cd9e080df910ba54d2776cc
+  RxCocoa: fcf32050ac00d801f34a7f71d5e8e7f23026dcd8
+  RxRelay: 4f7409406a51a55cd88483f21ed898c234d60f18
+  RxSwift: 8b0671caa829a763bbce7271095859121cbd895f
+  SwiftLint: 5553187048b900c91aa03552807681bb6b027846
+  TribunaGraph: e222dd5716e22091151ca87b460117747df2b355
+
+PODFILE CHECKSUM: 3f4b06162b3706d0b3c793f13367669fc981c184
+
+COCOAPODS: 1.8.4
